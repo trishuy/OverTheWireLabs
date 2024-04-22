@@ -44,6 +44,12 @@ check nguồn trang và ta thấy được ```<img src="files/pixel.png">. ```
 
 Đây là hình ảnh png, điều này có nghĩa là hình ảnh nằm trong url ```http://natas2.natas.labs.overthewire.org/files/pixel.png```, nếu chúng ta quay lại một thư mục thì chúng ta sẽ có ```http://natas2.natas.labs.overthewire.org/files```. Điều hướng đến trang web ,ta sẽ thấy được 
 
+![image](https://github.com/trishuy/OverTheWireLabs/assets/95763623/ca78dc3c-3d4d-45e5-9dbb-e151cc1119ed)
+
+Truy cập vào ```users.txt``` và ta có được mật khẩu 
+
+![image](https://github.com/trishuy/OverTheWireLabs/assets/95763623/66f28f80-96f9-4568-bb60-9e7f657bf120)
+
 
 
 
