@@ -38,6 +38,14 @@ username:```natas2```          password:```h4ubbcXrWqsTo7GGnnUMLppXbOogfBZ7```
 
 ![Screenshot 2024-04-22 160847](https://github.com/trishuy/OverTheWireLabs/assets/95763623/5b14a627-a32b-4f8e-864a-9d4f92f9a94a)
 
+check nguồn trang và ta thấy được ```<img src="files/pixel.png">. ```
+
+![Screenshot 2024-04-22 162739](https://github.com/trishuy/OverTheWireLabs/assets/95763623/351a9df1-4c11-4125-911d-a9f2d5885c61)
+
+Đây là hình ảnh png, điều này có nghĩa là hình ảnh nằm trong url ```http://natas2.natas.labs.overthewire.org/files/pixel.png```, nếu chúng ta quay lại một thư mục thì chúng ta sẽ có ```http://natas2.natas.labs.overthewire.org/files```. Điều hướng đến trang web ,ta sẽ thấy được 
+
+
+
 
 
 
