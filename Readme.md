@@ -36,6 +36,9 @@ tiếp tục chuyển hướng đến web lab với tài khoản đã được c
 
 username:```natas2```          password:```h4ubbcXrWqsTo7GGnnUMLppXbOogfBZ7```
 
+![Screenshot 2024-04-22 160847](https://github.com/trishuy/OverTheWireLabs/assets/95763623/5b14a627-a32b-4f8e-864a-9d4f92f9a94a)
+
+
 
 
 
