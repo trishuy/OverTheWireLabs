@@ -28,3 +28,7 @@ Vì Right-clicking bị block nên chúng ta có thể sử dụng tổ hợp ``
 ![Screenshot 2024-04-22 155447](https://github.com/trishuy/OverTheWireLabs/assets/95763623/8c3fcd1f-cd55-4883-acbc-b8dbbedae0c1)
 
 Và chúng ta đã tìm ra mật khẩu cho bài lab tiếp theo
+
+# Level 2
+![Screenshot 2024-04-22 160114](https://github.com/trishuy/OverTheWireLabs/assets/95763623/63092fd2-f986-49d9-800c-77902d8dcaae)
+
