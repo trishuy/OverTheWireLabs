@@ -30,5 +30,12 @@ Vì Right-clicking bị block nên chúng ta có thể sử dụng tổ hợp ``
 Và chúng ta đã tìm ra mật khẩu cho bài lab tiếp theo
 
 # Level 2
-![Screenshot 2024-04-22 160114](https://github.com/trishuy/OverTheWireLabs/assets/95763623/63092fd2-f986-49d9-800c-77902d8dcaae)
+![Screenshot 2024-04-22 160114](https://github.com/trishuy/OverTheWireLabs/assets/95763623/ff661f71-9bca-48a5-9338-6309f8230cc7)
+
+tiếp tục chuyển hướng đến web lab với tài khoản đã được cho và mật khẩu được tìm thấy ở Level 1
+
+username:```natas2```          password:```h4ubbcXrWqsTo7GGnnUMLppXbOogfBZ7```
+
+
+
 
