@@ -13,3 +13,18 @@ username:```natas0```          password:```natas0```
 Kiểm tra nguồn trang và ta có được mật khẩu 
 
 ![Screenshot 2024-04-22 154412](https://github.com/trishuy/OverTheWireLabs/assets/95763623/86920ea2-6adf-4f17-8881-f9e5e114fbc4)
+
+# Level 1
+![Screenshot 2024-04-22 154914](https://github.com/trishuy/OverTheWireLabs/assets/95763623/c270a5f2-5850-43ea-9d50-99abdc77b60a)
+
+tiếp tục chuyển hướng đến web lab với tài khoản đã được cho và mật khẩu được tìm thấy ở Level 0
+
+username:```natas1```          password:```g9D9cREhslqBKtcA2uocGHPfMZVzeFK6```
+
+![Screenshot 2024-04-22 155208](https://github.com/trishuy/OverTheWireLabs/assets/95763623/caf52944-c53e-4e96-938b-c8b9f14cbccb)
+
+Vì Right-clicking bị block nên chúng ta có thể sử dụng tổ hợp ```ctrl + u``` để xem nguồn trang 
+
+![Screenshot 2024-04-22 155447](https://github.com/trishuy/OverTheWireLabs/assets/95763623/8c3fcd1f-cd55-4883-acbc-b8dbbedae0c1)
+
+Và chúng ta đã tìm ra mật khẩu cho bài lab tiếp theo
