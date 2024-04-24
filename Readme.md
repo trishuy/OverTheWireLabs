@@ -63,6 +63,26 @@ tiếp tục vào xem nguồn trang
 
 ![image](https://github.com/trishuy/OverTheWireLabs/assets/95763623/8d5af6ee-c967-40f4-bc40-fe61778134aa)
 
+như chúng ta có thể thấy được rằng sẽ không có thể tin nào leaks ra và kể cả search google cũng không có
+
+![Screenshot 2024-04-24 094818](https://github.com/trishuy/OverTheWireLabs/assets/95763623/a21b5655-ec7d-44d2-8e8c-057d545b5588)
+
+thế nên dựa vào instruct web chúng ta có thể biết rằng trong web này sẽ có robots.txt ( các bạn có thể truy cập web https://www.robotstxt.org/robotstxt.html để tìm hiểu thêm )
+
+điều hướng đến ```http://natas3.natas.labs.overthewire.org/robots.txt``` nó cho ra thư mực không cho phép tên là  ```/s3cr3t/``` 
+![image](https://github.com/trishuy/OverTheWireLabs/assets/95763623/6749b677-7690-4521-8a47-6b8813478417)
+
+tiếp tục điều hướng đến thư mục ```/s3cr3t/``` nó cho  file đó chính là ```user.txt```
+
+![image](https://github.com/trishuy/OverTheWireLabs/assets/95763623/e3132740-9cc7-4a98-8ccd-c52d54edb998)
+
+truy cập và ta biết được mật khẩu được bài lab tiếp theo .
+
+![image](https://github.com/trishuy/OverTheWireLabs/assets/95763623/d3ecf106-b1f9-4ed9-bb8b-89445a4905d0)
+
+
+
+
 
 
 
