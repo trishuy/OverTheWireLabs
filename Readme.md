@@ -93,6 +93,10 @@ username:```natas4```          password:```tKOcJIbzM4lTs8hbCmzn5Zr4434fGZQm```
 
 ![image](https://github.com/trishuy/OverTheWireLabs/assets/95763623/5940e9da-92fc-40dc-bf77-210a1e36e486)
 
+Trong request HTTP cung cấp thông tin về URL của trang web trước đó được liên kết với trang hiện tại. Thế nên chúng ta sẽ dùng Referer để giúp các trang web và máy chủ theo dõi nguồn gốc của lưu lượng truy cập đến và hiểu cách người dùng điều hướng qua các trang web khác nhau. 
+
+Sau khi gửi yêu cầu nó đã cho kết quả được truy cập và mật khẩu tài khoản của bài lab tiếp theo.
+
 ![image](https://github.com/trishuy/OverTheWireLabs/assets/95763623/7fdfd313-479e-4fca-8750-09aebf218d07)
 
 
