@@ -50,6 +50,22 @@ Truy cập vào ```users.txt``` và ta có được mật khẩu
 
 ![image](https://github.com/trishuy/OverTheWireLabs/assets/95763623/66f28f80-96f9-4568-bb60-9e7f657bf120)
 
+# Level 3
+![253234387-0c6847f0-a5db-46a3-95df-40ccd09a327e](https://github.com/trishuy/OverTheWireLabs/assets/95763623/314e5164-cb67-405e-9601-b2ece2acda3b)
+
+tiếp tục chuyển hướng đến web lab với tài khoản đã được cho và mật khẩu được tìm thấy ở Level 2
+
+username:```natas3```          password:```G6ctbMJ5Nb4cbFwhpMPSvxGHhQ7I6W8Q```
+
+![image](https://github.com/trishuy/OverTheWireLabs/assets/95763623/923eb65a-01d4-44f0-821f-40da6f4b0003)
+
+tiếp tục vào xem nguồn trang
+
+![image](https://github.com/trishuy/OverTheWireLabs/assets/95763623/8d5af6ee-c967-40f4-bc40-fe61778134aa)
+
+
+
+
 
 
 
