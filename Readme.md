@@ -80,6 +80,27 @@ truy cập và ta biết được mật khẩu được bài lab tiếp theo .
 
 ![image](https://github.com/trishuy/OverTheWireLabs/assets/95763623/d3ecf106-b1f9-4ed9-bb8b-89445a4905d0)
 
+# Level 4
+![image](https://github.com/trishuy/OverTheWireLabs/assets/95763623/c49559e2-1f15-4522-a3d9-64d9db087621)
+
+tiếp tục chuyển hướng đến web lab với tài khoản đã được cho và mật khẩu được tìm thấy ở Level 2
+
+username:```natas4```          password:```tKOcJIbzM4lTs8hbCmzn5Zr4434fGZQm```
+
+Để có thể truy cập được trang web thành công, chúng ta cần phải đảm bảo rằng truy cập đến url được chỉ định 
+
+=> Để làm được điều này , chúng ta cần phải request đến địa chỉ đúng của url
+
+![image](https://github.com/trishuy/OverTheWireLabs/assets/95763623/5940e9da-92fc-40dc-bf77-210a1e36e486)
+
+![image](https://github.com/trishuy/OverTheWireLabs/assets/95763623/7fdfd313-479e-4fca-8750-09aebf218d07)
+
+
+
+
+
+
+
 
 
 
