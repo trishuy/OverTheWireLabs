@@ -83,13 +83,13 @@ truy cập và ta biết được mật khẩu được bài lab tiếp theo .
 # Level 4
 ![image](https://github.com/trishuy/OverTheWireLabs/assets/95763623/c49559e2-1f15-4522-a3d9-64d9db087621)
 
-tiếp tục chuyển hướng đến web lab với tài khoản đã được cho và mật khẩu được tìm thấy ở Level 2
+tiếp tục chuyển hướng đến web lab với tài khoản đã được cho và mật khẩu được tìm thấy ở Level 3
 
 username:```natas4```          password:```tKOcJIbzM4lTs8hbCmzn5Zr4434fGZQm```
 
-Để có thể truy cập được trang web thành công, chúng ta cần phải đảm bảo rằng truy cập đến url được chỉ định 
+Để có thể truy cập được trang web thành công, chúng ta cần phải đảm bảo rằng truy cập đến url chỉ định
 
-=> Để làm được điều này , chúng ta cần phải request đến địa chỉ đúng của url
+=> Làm được điều này , chúng ta cần phải request đến địa chỉ đúng của url
 
 ![image](https://github.com/trishuy/OverTheWireLabs/assets/95763623/5940e9da-92fc-40dc-bf77-210a1e36e486)
 
@@ -98,6 +98,38 @@ Trong request HTTP cung cấp thông tin về URL của trang web trước đó 
 Sau khi gửi yêu cầu nó đã cho kết quả được truy cập và mật khẩu tài khoản của bài lab tiếp theo.
 
 ![image](https://github.com/trishuy/OverTheWireLabs/assets/95763623/7fdfd313-479e-4fca-8750-09aebf218d07)
+
+# Level 5
+
+![image](https://github.com/trishuy/OverTheWireLabs/assets/95763623/cb05b089-8ac3-4dea-8695-24dd618f75bd)
+
+tiếp tục chuyển hướng đến web lab với tài khoản đã được cho và mật khẩu được tìm thấy ở Level 4
+
+username:```natas5```          password:```Z0NsrtIkJoKALBCLi5eqFfcRN82Au2oD```
+
+![image](https://github.com/trishuy/OverTheWireLabs/assets/95763623/b8bdb4a6-9654-4547-b501-d491c2830f47)
+
+vì ở trang web ghi là không cho mình đăng nhập nên mình xem thử phần request ở Burpsuite
+
+![image](https://github.com/trishuy/OverTheWireLabs/assets/95763623/56ea13b1-6844-4ee7-92fb-34a793c74f01)
+
+Như chúng ta có thể thấy phần loggedin có giá trị bằng 0 => điều đó là nó chưa cho phép allow cũng như đăng nhập vào web
+
+![image](https://github.com/trishuy/OverTheWireLabs/assets/95763623/4670790a-6c69-4054-ab67-0cc378073e32)
+
+Chuyển đổi sang giá trị bằng 1 nó cho ra kết quả 
+
+![image](https://github.com/trishuy/OverTheWireLabs/assets/95763623/29b2b5b7-561e-4e32-bf58-39ce4b384f83)
+
+Vậy là chúng ta đã đăng nhập và cũng xác định được mật khẩu của bài lab tiếp theo.
+
+
+
+
+
+
+
+
 
 
 
